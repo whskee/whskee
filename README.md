@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 # ⚡ Fun facts
 1. 🎵 I love music! Feel free to checkout [88 Keyz](https://open.spotify.com/artist/0Q3t8twQzM7LIq3IOnpkNb) and [The Wavs](https://open.spotify.com/artist/7BPsQxgipBLClPqoDrFHs1?si=hOCcmgY9SuWg-mSdPeRYsA) on Spotify. Also my [SoundCloud](https://soundcloud.com/cbidkar).
 4. I survived a motorcycle accident in 2022.
-5. I love 
+5. I love nature :)
