@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # 💡 I’m currently working on
 1. **Ryd** - *A scheduled ride-share platform.*
+2. **Scuba Pal** = *A community for scuba diving 🤿*
 
 
 
