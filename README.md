@@ -1,5 +1,5 @@
 <h1 align="center">
-  Chinmaya Bidkar<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
+  Chinmaya Bidkar
 </h1>
 
 <p align="center">
@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 
 ## 💡 I’m currently working on
 1. **Ryd** - *A scheduled ride-share platform.*
-2. **Scuba Pal** = *A community for scuba diving 🤿*
-
+2. **Scuba Pal** = *A social community for divers 🤿*
 
 
 ## 🌱 I’m currently learning
@@ -34,21 +33,20 @@ Here are some ideas to get you started:
 - 🎻 Violin
 
 
----
 ## 🎵 Music
 
-<p>
-  <a href="https://open.spotify.com/artist/0Q3t8twQzM7LIq3IOnpkNb">
-    <img src="https://img.shields.io/badge/88%20Keyz-1DB954?style=flat&logo=spotify&logoColor=white" />
-  </a>
-  <a href="https://open.spotify.com/artist/7BPsQxgipBLClPqoDrFHs1?si=hOCcmgY9SuWg-mSdPeRYsA">
-    <img src="https://img.shields.io/badge/The%20Wavs-1DB954?style=flat&logo=spotify&logoColor=white" />
-  </a>
-  <a href="https://soundcloud.com/cbidkar">
-    <img src="https://img.shields.io/badge/SoundCloud-FF5500?style=flat&logo=soundcloud&logoColor=white" />
-  </a>
+<p align="center">
+  <a href="https://open.spotify.com/artist/0Q3t8twQzM7LIq3IOnpkNb"><img src="https://img.shields.io/badge/88%20Keyz-1DB954?style=flat&logo=spotify&logoColor=white" /></a>
+  <a href="https://soundcloud.com/cbidkar"><img src="https://img.shields.io/badge/SoundCloud-FF5500?style=flat&logo=soundcloud&logoColor=white" /></a>
+  <a href="https://open.spotify.com/artist/7BPsQxgipBLClPqoDrFHs1?si=hOCcmgY9SuWg-mSdPeRYsA"><img src="https://img.shields.io/badge/The%20Wavs-1DB954?style=flat&logo=spotify&logoColor=white" /></a>
 </p>
 
-## ⚡ Fun facts
-1. I survived a motorcycle accident in 2022.
-2. I love Scuba Diving 🤿
+<h2 align="center">
+  Connect<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
+</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/cbidkar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:cbidkar@asu.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/whskee"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+</p>
