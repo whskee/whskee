@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFAD00&center=true&width=435&lines=Developer+|+Musician+|+Engineer;Robotics+%2B+AI+Student;Backend+Java+Developer;Embedded+Software+Developer;Systems+Design+Architect" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFAD00&center=true&width=435&lines=Developer+|+Musician+|+Engineer;Robotics+%2B+Autonomous+Systems;Backend+Java+Developer;Embedded+Software+Developer;Systems+Design+Architect" alt="Typing SVG" />
   </a>
 
 
@@ -18,20 +18,19 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-
 -->
 
 ## 💡 I’m currently working on
 1. **Ryd** - *A scheduled ride-share platform.*
 2. **Scuba Pal** = *A social community for divers 🤿*
 
-
+<!--
 ## 🌱 I’m currently learning
 - 🎓 Robotics 1
 - 🎓 Cloud Computing
 - 🎓 Artifical Intelligence
 - 🎻 Violin
-
+-->
 
 ## 🎵 Music
 
