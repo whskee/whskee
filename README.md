@@ -32,6 +32,32 @@ Here are some ideas to get you started:
 - 🎻 Violin
 -->
 
+<!-- https://github.com/tandpfun/skill-icons#readme -->
+<h2 align="center">
+  My Core Stack
+</h2>
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev) -->
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=cpp,git,java,spring,python,kotlin,nodejs,figma,docker,aws,postgresql&theme=dark)](https://skillicons.dev) -->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <!-- <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" /> -->
+    <!-- <img src="https://skillicons.dev/icons?i=git,kubernetes,vim" /> -->
+    <!-- <img src="https://skillicons.dev/icons?i=cpp,git,java,spring,python,kotlin,nodejs,figma,docker,aws,postgresql&theme=dark" /> -->
+    <!-- <img src="https://skillicons.dev/icons?i=cpp,git,java,spring,python,kotlin,nodejs,figma,docker,aws,postgresql&theme=light" /> -->
+    <img src="https://skillicons.dev/icons?i=java,spring,python,postgresql,docker,aws&theme=light" />
+  </a>
+</p>
+
+<!-- ### Programming -->
+<!-- <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,spring,python,flask&theme=light" />
+  </a>
+</p> -->
+
+
 ## 🎵 Music
 
 <p align="center">
@@ -39,6 +65,7 @@ Here are some ideas to get you started:
   <a href="https://soundcloud.com/cbidkar"><img src="https://img.shields.io/badge/SoundCloud-FF5500?style=flat&logo=soundcloud&logoColor=white" /></a>
   <a href="https://open.spotify.com/artist/7BPsQxgipBLClPqoDrFHs1?si=hOCcmgY9SuWg-mSdPeRYsA"><img src="https://img.shields.io/badge/The%20Wavs-1DB954?style=flat&logo=spotify&logoColor=white" /></a>
 </p>
+
 
 <h2 align="center">
   Connect<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
