@@ -46,7 +46,7 @@ Here are some ideas to get you started:
     <!-- <img src="https://skillicons.dev/icons?i=git,kubernetes,vim" /> -->
     <!-- <img src="https://skillicons.dev/icons?i=cpp,git,java,spring,python,kotlin,nodejs,figma,docker,aws,postgresql&theme=dark" /> -->
     <!-- <img src="https://skillicons.dev/icons?i=cpp,git,java,spring,python,kotlin,nodejs,figma,docker,aws,postgresql&theme=light" /> -->
-    <img src="https://skillicons.dev/icons?i=java,spring,python,postgresql,docker,aws&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,postgresql,docker,aws,matlab&theme=light" />
   </a>
 </p>
 
