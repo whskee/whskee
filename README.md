@@ -6,7 +6,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFAD00&center=true&width=435&lines=Developer+|+Musician+|+Engineer;Robotics+%2B+Autonomous+Systems;Backend+Java+Developer;Embedded+Software+Developer;Systems+Design+Architect" alt="Typing SVG" />
   </a>
-
+</p>
 
 <!--
 **whskee/whskee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
