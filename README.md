@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-## Current Work
+### Current Work
 1. **Ryd** - *A scheduled ride-share platform.*
 2. **Scuba Pal** = *A social community for divers 🤿*
 
