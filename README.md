@@ -1,13 +1,3 @@
-<h1 align="center">
-  Chinmaya Bidkar
-</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFAD00&center=true&width=435&lines=Developer+|+Musician+|+Engineer;Robotics+%2B+Autonomous+Systems;Backend+Java+Developer;Embedded+Software+Developer;Systems+Design+Architect" alt="Typing SVG" />
-  </a>
-</p>
-
 <!--
 **whskee/whskee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,6 +10,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
+<h1 align="center">Chinmaya Bidkar</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFAD00&center=true&width=435&lines=Developer+|+Musician+|+Engineer;Robotics+%2B+Autonomous+Systems;Backend+Java+Developer;Embedded+Software+Developer;Systems+Design+Architect" alt="Typing SVG" />
+  </a>
+</p>
+
 ### Current Work
 1. **Ryd** - *A scheduled ride-share platform.*
 2. **Scuba Pal** = *A social community for divers 🤿*
@@ -31,32 +29,21 @@ Here are some ideas to get you started:
 - 🎓 Artifical Intelligence
 - 🎻 Violin
 -->
-
 <!-- https://github.com/tandpfun/skill-icons#readme -->
-<h2 align="center">
-  My Core Stack
-</h2>
-
-<!-- [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,matlab,figma&theme=light)](https://skillicons.dev) -->
-
-<!-- [![My Skills](https://skillicons.dev/icons?i=cpp,git,java,spring,python,kotlin,nodejs,figma,docker,aws,postgresql&theme=dark)](https://skillicons.dev) -->
-<p align="left">
+<h2 align="center">My Core Stack</h2>
+<p align="center">
   <a href="https://skillicons.dev">
-    <!-- <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" /> -->
-    <!-- <img src="https://skillicons.dev/icons?i=git,kubernetes,vim" /> -->
-    <!-- <img src="https://skillicons.dev/icons?i=cpp,git,java,spring,python,kotlin,nodejs,figma,docker,aws,postgresql&theme=dark" /> -->
-    <!-- <img src="https://skillicons.dev/icons?i=cpp,git,java,spring,python,kotlin,nodejs,figma,docker,aws,postgresql&theme=light" /> -->
-    <img src="https://skillicons.dev/icons?i=java,spring,python,postgresql,postman,docker,aws,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,flask,postgresql,postman,docker,aws,figma,git&theme=light" />
   </a>
 </p>
-
-<!-- ### Programming -->
-<!-- <p align="center">
+<!--
+<h5 align="center">Other</h5>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,spring,python,flask&theme=light" />
+    <img src="https://skillicons.dev/icons?i=cpp,swift,html,css,javascript,nodejs,matlab&theme=light" />
   </a>
-</p> -->
-
+</p>
+-->
 
 ## 🎵 Music
 
