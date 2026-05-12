@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   My Core Stack
 </h2>
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev) -->
+<!-- [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,matlab,figma&theme=light)](https://skillicons.dev) -->
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=cpp,git,java,spring,python,kotlin,nodejs,figma,docker,aws,postgresql&theme=dark)](https://skillicons.dev) -->
 <p align="left">
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
     <!-- <img src="https://skillicons.dev/icons?i=git,kubernetes,vim" /> -->
     <!-- <img src="https://skillicons.dev/icons?i=cpp,git,java,spring,python,kotlin,nodejs,figma,docker,aws,postgresql&theme=dark" /> -->
     <!-- <img src="https://skillicons.dev/icons?i=cpp,git,java,spring,python,kotlin,nodejs,figma,docker,aws,postgresql&theme=light" /> -->
-    <img src="https://skillicons.dev/icons?i=java,spring,python,postgresql,docker,aws,matlab&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,postgresql,postman,docker,aws,figma&theme=light" />
   </a>
 </p>
 
